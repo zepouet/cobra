@@ -158,6 +158,8 @@ We have only defined one flag for a single command.
 
 More documentation about flags is available at https://github.com/spf13/pflag
 
+    package main
+    
     import(
         "github.com/spf13/cobra"
         "fmt"
